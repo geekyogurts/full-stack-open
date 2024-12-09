@@ -1,4 +1,4 @@
-# full-stack-open 🏛️
+# full-stack-open
 
 This repository contains my solutions to the [Full Stack Open](https://fullstackopen.com) course by the [Department of Computer Science](https://www.helsinki.fi/en/faculty-science/faculty/computer-science) at the University of Helsinki.
 
